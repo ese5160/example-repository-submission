@@ -8,9 +8,20 @@
 ### 0. Prerequisite WOrk
 Below is the result.
 
+test 1
+[[/images/0.jpg]]
+
+test 2
 <div align=center>
-<img src="https://github.com/ese5160/a08-i2c-imu-group-ese5160_highway/blob/lihzhao/image/0.jpg" width="600">  
+<img src="/images/0.jpg" width="600">  
 </div>
+
+test 3
+<div align=center>
+<img src="https://github.com/ese5160/example-repository-submission/blob/main/image/0.jpg" width="600">  
+</div>
+
+
 
 ### 1. Developing a FreeRTOS I2C Driver
 Below is the result.
