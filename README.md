@@ -60,7 +60,7 @@ Place the breakpoint at line 118 in main21.c
 Below is the result.
 
 <div align=center>
-<img src="/images/Extra.png" width="600">  
+<img src="/images/5.png" width="600">  
 </div>
 
 
